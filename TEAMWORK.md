@@ -21,6 +21,12 @@
 * Specifically added to "Divison of Labour" sections
 * Uploaded 2023.09.20
 
+@JeromePlumier
+* Exercise 1 --> Joined the repo
+* Exercise 3 --> updated [.Md](https://github.com/stat545ubc-2023/collaborative-group21/blob/main/TEAMWORK.md) version of the **TEAMWORK contract**
+* Exercise 4 --> Introduced myself, communicated with all colleagues
+* Uploaded 2023.09.20
+
 ## Timing ⏲️:
 * Goal to complete **Exercise 3, 4, ** simultaneously on 9/20/23.
   * If any remaining tasks left, plan to reconvene 9/21/23 to finish Milestone 1.
