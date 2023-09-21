@@ -30,7 +30,7 @@
 * Uploaded 2023.09.20
 
 ## Timing ⏲️:
-* Goal to complete **Exercise 3, 4, ** simultaneously on 9/20/23.
+* Goal to complete **Exercise 3, 4** simultaneously on 9/20/23.
   * If any remaining tasks left, plan to reconvene 9/21/23 to finish Milestone 1.
 
 ## Communication 💬:
