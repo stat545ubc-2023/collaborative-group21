@@ -9,9 +9,9 @@
   
 @cynthiaachung
 * Exercise 5 --> updated [.Md](https://github.com/stat545ubc-2023/collaborative-group21/blob/main/TEAMWORK.md) version of the **TEAMWORK contract** 
-  * Specifically, added subpoints to the "Communication" and "Additional Expectations" sections
+  * Specifically, added to "Division of Labour, "Communication", and "Additional Expectations" sections
   * Uploaded 2023.09.20
-* Exercise 7 --> updated [.Md](https://github.com/stat545ubc-2023/collaborative-group21/blob/main/README.md) version with a brief description of the repository + project.
+* Exercise 7 --> updated [.Md](https://github.com/stat545ubc-2023/collaborative-group21/blob/main/README.md) with the three required descriptions of the repository + project.
   * Uplodade 2023.09.20
 
 ## Timing ⏲️:
@@ -30,6 +30,6 @@
 ## Additional Expectations 🌈✨:
 1. Be respectful, kind, and compassionate to our team members.
 2. A commitment to complete tasks for which we are responsible.
-  * If a team member is unable to complete their tasks due to personal conflicts, this will be communicated to the rest of the group with sufficient notice so that the work can be delegated and completed in a timely manner.
-3. Should differences arise, we will aim to resolve the conflict in a *timely, open, and honest manner within the group*.
-  * We will only proceed to contact the teaching team if multiple resolution attempts are unsuccessful.
+     * If a team member is unable to complete their tasks due to personal conflicts, this will be communicated to the rest of the group with sufficient notice so that the work can be delegated and completed in a timely manner.
+4. Should differences arise, we will aim to resolve the conflict in a *timely, open, and honest manner within the group*.
+     * We will only proceed to contact the teaching team if multiple resolution attempts are unsuccessful.
