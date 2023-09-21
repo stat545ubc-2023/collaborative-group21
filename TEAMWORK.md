@@ -17,8 +17,10 @@
 * Exercise 2 --> contributed to the formatting of the README.md and the TEAMWORK.md
 
 @andyrooooo16
+* Exercise 1 --> Joined the repo
 * Exercise 3 --> updated [.Md](https://github.com/stat545ubc-2023/collaborative-group21/blob/main/TEAMWORK.md) version of the **TEAMWORK contract**
 * Specifically added to "Divison of Labour" sections
+* * Exercise 4 --> Introduced myself, communicated with all colleagues
 * Uploaded 2023.09.20
 
 @JeromePlumier
