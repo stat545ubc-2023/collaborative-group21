@@ -1,9 +1,11 @@
 # TEAMWORK CONTRACT FOR GROUP 21
 
-## Division of Labour 👥
+## Division of Labour 👥:
 @ishanainformatics 
+* Exercise 1 --> all members were sucessfully added and repo created 
 * Exercise 6 --> completed [.Rmd](https://github.com/stat545ubc-2023/collaborative-group21/blob/main/troubleshooting-1.Rmd) and [.Md](https://github.com/stat545ubc-2023/collaborative-group21/blob/main/troubleshooting-1.md) versions of the (corrected) **troubleshooting document**
   * Uploaded 2023.09.19
+* Exercise 5 --> added to "Division of Labour", "Timing", and "Communication"
   
 @cynthiaachung
 * Exercise 5 --> updated [.Md](https://github.com/stat545ubc-2023/collaborative-group21/blob/main/TEAMWORK.md) version of the **TEAMWORK contract** 
@@ -12,7 +14,9 @@
 * Exercise 7 --> updated [.Md](https://github.com/stat545ubc-2023/collaborative-group21/blob/main/README.md) version with a brief description of the repository + project.
   * Uplodade 2023.09.20
 
-## Timing ⏲️
+## Timing ⏲️:
+* Goal to complete **Exercise 3** simultaneously on 9/20/23
+  * If any remaining tasks left, plan to reconvene 9/21/23 to finish milestone 1
 
 ## Communication 💬:
 * Slack for easiest instant messaging under one chat for the whole group to communicate and/or if a member needs to contact another member but content may not need to be shared in the main group chat.
@@ -23,7 +27,7 @@
   * Otherwise, communication will be done asynchronously through Slack.
 * Responses to messages should be made within two days of initial contact. If the message requires a more immediate response, the member(s) will be tagged to signify urgency.
 
-## Additional Expectations 🌈✨
+## Additional Expectations 🌈✨:
 1. Be respectful, kind, and compassionate to our team members.
 2. A commitment to complete tasks for which we are responsible.
   * If a team member is unable to complete their tasks due to personal conflicts, this will be communicated to the rest of the group with sufficient notice so that the work can be delegated and completed in a timely manner.
