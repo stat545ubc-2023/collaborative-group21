@@ -1,11 +1,11 @@
 # TEAMWORK CONTRACT FOR GROUP 21
 
 ## Division of Labour 👥
-@ ishanainformatics 
+@ishanainformatics 
 * Exercise 6 --> completed [.Rmd](https://github.com/stat545ubc-2023/collaborative-group21/blob/main/troubleshooting-1.Rmd) and [.Md](https://github.com/stat545ubc-2023/collaborative-group21/blob/main/troubleshooting-1.md) versions of the (corrected) **troubleshooting document**
   * Uploaded 2023.09.19
   
-@ cynthiachung
+@cynthiaachung
 * Exercise 5 --> updated [.Md](https://github.com/stat545ubc-2023/collaborative-group21/blob/main/TEAMWORK.md) version of the **TEAMWORK contract** 
   * Specifically, added subpoints to the "Communication" and "Additional Expectations" sections
   * Uploaded 2023.09.20
