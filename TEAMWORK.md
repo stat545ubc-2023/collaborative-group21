@@ -1,17 +1,11 @@
 # TEAMWORK CONTRACT FOR GROUP 21
 
 ## Division of Labour
-@Andyrooooo16
-
-@cynthiaachung
-
 @ ishanainformatics 
 * Exercise 1 --> all members were sucessfully added and repo created 
 * Exercise 6 --> completed [.Rmd](https://github.com/stat545ubc-2023/collaborative-group21/blob/main/troubleshooting-1.Rmd) and [.Md](https://github.com/stat545ubc-2023/collaborative-group21/blob/main/troubleshooting-1.md) versions of the (corrected) **troubleshooting document**
   * Uploaded 2023.09.19
-* Exercise 5 --> continuously being updated
-
-@JeromePlumier
+* Exercise 5 --> added to "Division of Labour", "Timing", and "Communication"
 
 ## Timing
 * Goal to complete **Exercise 3** simultaneously on 9/20/23
