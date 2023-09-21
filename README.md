@@ -1,4 +1,4 @@
-# STAT 545A Collaborative Project
+# STAT 545A COLLABORATIVE PROJECT
 **Group 21: Cynthia Chung, Andrew Feng, Ishana Lodhia, Jerome	Plumier**
 
 ## What is this project?
@@ -15,12 +15,12 @@ troubleshooting-1.md | A markdown file that contains a finished troubleshooting 
 troubleshooting-1.Rmd | An R markdown file that contains a finished troubleshooting exercise required for Exercise 6 of Milestone 1. The contents of this is identical to that of "troubleshooting-1.md".
 
 ## How can I run code that appears in this folder/GitHub repository?
-*Note: To run code from GitHub, you must have Git installed on your device. This (webpage)[https://stat545.stat.ubc.ca/notes/notes-a00/] from the STAT 545A class website contains instructions on how to do this if you need to do this and are not familiar with the process. Please scroll down to "Step 3: Git and Github" at the bottom of the page.*
+*Note: To run code from GitHub, you must have Git installed on your device. This [webpage](https://stat545.stat.ubc.ca/notes/notes-a00/) from the STAT 545A class website contains instructions on how to do this if you need to do this and are not familiar with the process. Please scroll down to "Step 3: Git and Github" at the bottom of the page.*
 
 To run code from this GitHub repository, you will need to either download it or clone it.
 
 ##### Cloning
-To clone the repository, click the green **Code** button and copy either the HTTPS or the GitHub CLI. Then, open Terminal and change the current working directory to the location where you want the cloned directory. You can then type "git hub" followed by the URL you copied earlier (i.e., *git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY*), before pressing **Enter** to create your local clone. For more detailed instructions, please visit this (link)[https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository?platform=mac].
+To clone the repository, click the green **Code** button and copy either the HTTPS or the GitHub CLI. Then, open Terminal and change the current working directory to the location where you want the cloned directory. You can then type "git hub" followed by the URL you copied earlier (i.e., *git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY*), before pressing **Enter** to create your local clone. For more detailed instructions, please visit this [link](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository?platform=mac).
 
 ##### Download
 To download the repository, click the green **Code** button and, in the menu that appears, click **Download ZIP**. The entire repository will be downloaded to your device as a zipped file. 
