@@ -1,14 +1,31 @@
 # TEAMWORK CONTRACT FOR GROUP 21
 
-## Division of Labour
+## Division of Labour :flexed_biceps:
 @ ishanainformatics 
 * Exercise 6 --> completed [.Rmd](https://github.com/stat545ubc-2023/collaborative-group21/blob/main/troubleshooting-1.Rmd) and [.Md](https://github.com/stat545ubc-2023/collaborative-group21/blob/main/troubleshooting-1.md) versions of the (corrected) **troubleshooting document**
   * Uploaded 2023.09.19
+  
+@ cynthiachung
+* Exercise 5 --> updated [.Md](https://github.com/stat545ubc-2023/collaborative-group21/blob/main/TEAMWORK.md) version of the **TEAMWORK contract** 
+  * Specifically, added subpoints to the "Communication" and "Additional Expectations" sections
+  * Uploaded 2023.09.20
+* Exercise 7 --> updated [.Md](https://github.com/stat545ubc-2023/collaborative-group21/blob/main/README.md) version with a brief description of the repository + project.
+  * Uplodade 2023.09.20
 
-## Timing
+## Timing :timer_clock:
 
-## Communication
+## Communication :speech_balloon:
 * Slack for easiest instant messaging under one chat for the whole group to communicate and/or if a member needs to contact another member but content may not need to be shared in the main group chat.
-* Planning a zoom session to synchronously work on the project and troubleshoot any issues in the moment --> _getting it done with efficiency!_
+* Planning a Zoom session to synchronously work on the project and troubleshoot any issues in the moment --> _getting it done with efficiency!_
   * [When2Meet](https://www.when2meet.com/?21452226-FnyJZ)
     * Zoom scheduled for: 9/20 @ 9 PM
+* Meetings will be scheduled on an as-needed basis. When2Meet will be used to find time(s) that work for every group member.
+  * Otherwise, communication will be done asynchronously through Slack.
+* Responses to messages should be made within two days of initial contact. If the message requires a more immediate response, the member(s) will be tagged to signify urgency.
+
+## Additional Expectations :rainbow: :sparkles:
+1. Be respectful, kind, and compassionate to our team members.
+2. A commitment to complete tasks for which we are responsible.
+  * If a team member is unable to complete their tasks due to personal conflicts, this will be communicated to the rest of the group with sufficient notice so that the work can be delegated and completed in a timely manner.
+3. Should differences arise, we will aim to resolve the conflict in a *timely, open, and honest manner within the group*.
+  * We will only proceed to contact the teaching team if multiple resolution attempts are unsuccessful.
