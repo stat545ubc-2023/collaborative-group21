@@ -1,5 +1,5 @@
 ---
-title: "Team Troubleshooting Deliverable 2 - CollabGroup 21"
+title: "Team Troubleshooting Deliverable 2 - Group 21"
 output: github_document
 ---
 
