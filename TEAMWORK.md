@@ -42,8 +42,8 @@
 * In a group meeting, individual answers were compared, and the final document merged and corrected. 
 
 ## Timing ⏲️:
-* Goal to work on the troubleshoot document separately. Aim to finish individual corrections for the 26th of September.
-  * If any remaining tasks left, plan to meet on zoom on the 26th of September to finish Milestone 2.
+* Goal to work on the troubleshooting exercise independently. Aim to finish for 9/26/23 so we can meet on Zoom at 7:30pm to compare.
+  * If any remaining tasks left, plan to reconvene on 9/27/23 to finish Milestone 2.
 
 # Group Rules
 
