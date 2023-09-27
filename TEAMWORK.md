@@ -1,5 +1,7 @@
 # TEAMWORK CONTRACT FOR GROUP 21
 
+# Milestone 1
+
 ## Division of Labour 👥:
 @ishanainformatics 
 * Exercise 1 --> all members were sucessfully added and repo created 
@@ -32,12 +34,23 @@
 ## Timing ⏲️:
 * Goal to complete **Exercise 3, 4** simultaneously on 9/20/23.
   * If any remaining tasks left, plan to reconvene 9/21/23 to finish Milestone 1.
+  
+# Milestone 2
+
+## Division of Labour 👥:
+* Everybody worked on the troubleshoot document individually.
+* In a group meeting, individual answers were compared, and the final document merged and corrected. 
+
+## Timing ⏲️:
+* Goal to work on the troubleshoot document separately. Aim to finish individual corrections for the 26th of September.
+  * If any remaining tasks left, plan to meet on zoom on the 26th of September to finish Milestone 2.
+
+# Group Rules
 
 ## Communication 💬:
 * Slack for easiest instant messaging under one chat for the whole group to communicate and/or if a member needs to contact another member but content may not need to be shared in the main group chat.
 * Planning a Zoom session to synchronously work on the project and troubleshoot any issues in the moment --> _getting it done with efficiency!_
   * [When2Meet](https://www.when2meet.com/?21452226-FnyJZ)
-    * Zoom scheduled for: 9/20 @ 9 PM
 * Meetings will be scheduled on an as-needed basis. When2Meet will be used to find time(s) that work for every group member.
   * Otherwise, communication will be done asynchronously through Slack.
 * Responses to messages should be made within two days of initial contact. If the message requires a more immediate response, the member(s) will be tagged to signify urgency.
