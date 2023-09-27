@@ -13,8 +13,8 @@ README.md | A markdown file that provides an overview of the project, as well as
 TEAMWORK.md | A markdown file that outlines what is expected of each group member, how each member will maintain effective communication, and when project goals will be met. Specifically, this document addresses division of labour, timing, communication guidelines, and other additional expectations.
 troubleshooting-1.md | A markdown file that contains a finished troubleshooting exercise required for Exercise 6 of Milestone 1. The contents of this is identical to that of "troubleshooting-1.Rmd".
 troubleshooting-1.Rmd | An R markdown file that contains a finished troubleshooting exercise required for Exercise 6 of Milestone 1. The contents of this is identical to that of "troubleshooting-1.md".
-troubleshooting-2.md | A markdown file that contains a finished troubleshooting exercise required for Milestone 2. The contents of this is identical to that of "troubleshooting-2.Rmd".
-troubleshooting-2.Rmd | An R markdown file that contains a finished troubleshooting exercise required for Milestone 2. The contents of this is identical to that of "troubleshooting-2.md".
+FINAL-troubleshooting-2.md | A markdown file that contains a finished troubleshooting exercise required for Milestone 2. The contents of this is identical to that of "FINAL-troubleshooting-2.Rmd".
+FINAL-troubleshooting-2.Rmd | An R markdown file that contains a finished troubleshooting exercise required for Milestone 2. The contents of this is identical to that of "FINAL-troubleshooting-2.md".
 
 ## How can I run code that appears in this folder/GitHub repository?
 *Note: To run code from GitHub, you must have Git installed on your device. The [STAT545A class website](https://stat545.stat.ubc.ca/notes/notes-a00/) contains instructions on how to do this if you need to do this and are not familiar with the process. Please scroll down to "Step 3: Git and Github" at the bottom of the page.*
