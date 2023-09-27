@@ -48,7 +48,7 @@ Now that we've had a quick look at the dataset, it would be interesting to explo
 filter(movieLens, genres == "Drama")
 filter(movieLens, !genres == "Drama")
 filter(movieLens, year > 2000)
-filter(movieLens, year == 1999 | month == 2000)
+filter(movieLens, year == 1999 | year == 2000)
 filter(movieLens, rating > 4.5, year < 1995)
 ```
 
