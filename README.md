@@ -5,7 +5,7 @@
 This is a project for the STAT 545A course at the University of British Columbia. The aim is to familiarize students with the logistics of collaborating with others on the GitHub platform, as well as the technical issues that may arise.
 
 ## What files are in this project folder/GitHub repository?
-In this repository, there are four files:
+In this repository, there are six files:
 
 File Name | Purpose
 ----------|---------
